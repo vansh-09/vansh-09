@@ -1,15 +1,14 @@
 ## Hi there 👋
 
-<!--
-**vansh-09/vansh-09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--  
+**vansh-09/vansh-09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. ooga booga
 
-Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on Deep Learning Projects
 - 🌱 I’m currently learning tensorflow
 - 👯 I’m looking to collaborate on ML and DL projects
 - 🤔 I’m looking for Internships and Data Science and ML roles
-- 💬 Ask me about Data Science
+- 💬 Ask me about Data Science. 
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vanss.jpeg) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vanshjainx) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Vansh_codes) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vanshkjain09@gmail.com) 
