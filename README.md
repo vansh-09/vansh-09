@@ -1,9 +1,8 @@
 ## Hi there 👋
 
-<!--
-**vansh-09/vansh-09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--  
+**vansh-09/vansh-09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. ooga booga
 
-Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on Deep Learning Projects
 - 🌱 I’m currently learning tensorflow
