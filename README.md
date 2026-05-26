@@ -1,5 +1,5 @@
 <h2 align="center">
-  Hi 👋 I'm Vansh — Full Stack Developer from India 🇮🇳
+  Hi 👋 I'm Vansh — AI Engineer and Full Stack Dev from India 🇮🇳
 </h2>
 
 <p align="center">
