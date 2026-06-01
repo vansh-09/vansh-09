@@ -54,6 +54,4 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=vansh-09&theme=dark&hide_border=false"/>
-</p>
+
