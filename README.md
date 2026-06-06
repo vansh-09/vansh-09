@@ -48,7 +48,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/vanshjainx/" target="_blank">
 
-<!--- i had to bro --->
 
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"/>
   </a>
@@ -58,3 +57,4 @@
 </p>
 
 
+<!--- i had to bro --->
